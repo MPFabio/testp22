@@ -1,4 +1,4 @@
-﻿#Installer cli github :
+﻿#Installez cli github :
 
 #Pour Ubuntu-Debian
 
